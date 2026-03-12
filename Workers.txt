@@ -1,0 +1,40 @@
+User Name: admin
+Name: manager
+Password: 12345678
+Level: 1
+
+User Name: na
+Name: mamamiya
+Password: 1
+Level: 1
+
+User Name: shon
+Name: shoni
+Password: lior
+Level: 2
+
+User Name: pop
+Name: popcoren
+Password: yam
+Level: 3
+
+User Name: ma
+Name: moo_shlam
+Password: 70
+Level: 2
+
+User Name: amit25
+Name: amit
+Password: 777
+Level: 3
+
+User Name: hopa hopa
+Name: hop hop
+Password: 12 12
+Level: 2
+
+User Name: pumba
+Name: tralala
+Password: who
+Level: 3
+

@@ -1,0 +1,24 @@
+User Name: amit
+Join Date: 06/03/2026
+Count: 4
+Item: 78-boll[06/03/2026],456-papy[06/03/2026],222-ezem[06/03/2026],654-lion[06/03/2026],
+Money Spent: 1159.98
+
+User Name: na na
+Join Date: 07/03/2026
+Count: 0
+Item: 
+Money Spent: 0.00
+
+User Name: keren
+Join Date: 09/03/2026
+Count: 4
+Item: 456-papy[11/03/2026],78-boll[09/03/2026],656-bone[09/03/2026],78-boll[09/03/2025],
+Money Spent: 180.88
+
+User Name: lion
+Join Date: 09/03/2026
+Count: 0
+Item: 
+Money Spent: 0.00
+

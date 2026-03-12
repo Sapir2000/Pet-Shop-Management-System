@@ -1,0 +1,13 @@
+[11/03/2026 15:22:18] mamamiya logged in
+[11/03/2026 15:24:19] mamamiya has edit the price of box
+[11/03/2026 15:25:34] mamamiya added new item: cat (SN: 707)
+[11/03/2026 15:25:53] mamamiya logged out
+[11/03/2026 15:26:10] Customer keren logged in
+[11/03/2026 15:28:09] Customer keren purchased 2 items for 150.60
+[11/03/2026 15:28:09] The customer keren logged out
+[11/03/2026 15:28:18] Customer keren logged in
+[11/03/2026 15:28:35] The customer keren refunded the cat
+[11/03/2026 15:29:25] The customer keren logged out
+[11/03/2026 15:29:35] mamamiya logged in
+[11/03/2026 15:29:49] mamamiya added new customer: boris
+[12/03/2026 15:35:11] Customer keren logged in
